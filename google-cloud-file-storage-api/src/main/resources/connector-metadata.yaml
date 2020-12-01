@@ -1,0 +1,4 @@
+version: "1.0"
+name: "googlecloudfilestorage"
+description: "A simple google cloud file storage connector that can be used in Wavemaker application"
+springConfigurationClass: "com.wavemaker.connector.configuration.GoogleCloudFileStorageConnectorConfiguration"
