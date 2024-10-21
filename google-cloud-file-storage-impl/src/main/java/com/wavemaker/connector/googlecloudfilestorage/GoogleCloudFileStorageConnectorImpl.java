@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Nullable;
+import jakarta.annotation.Nullable;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
